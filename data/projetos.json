@@ -1,7 +1,7 @@
 {
   "projetos": [
     {
-      "imagem": "https://user-images.githubusercontent.com/69852246/448463474-9748a89a-4f07-46c7-bea2-de6a62fb6aea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0NDczNjMsIm5iZiI6MTc0ODQ0NzA2MywicGF0aCI6Ii82OTg1MjI0Ni80NDg0NjM0NzQtOTc0OGE4OWEtNGYwNy00NmM3LWJlYTItZGU2YTYyZmI2YWVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI4VDE1NDQyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5MTU4NmIwNmI1ZjhiOGY3ZDRlYWUyNDc3YmNkMjQ2ZWE2YWQ5NDIxMjQ1MWVmNTc5OGQ2MjM0MTNiNjhhMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7n0T0kjh7enxhNhWeOa_SEThZXS-DXBNW7xdgQKu308",
+      "imagem": "https://github.com/Brenda-A-S/BuzzfeedClone-sorting-hat-quizz-Angular/blob/main/capa.png?raw=true",
       "nome": "Projeto BuzzFeed Clone",
       "descricao": "Esse projeto foi desenvolvido durante o bootcamp Potência Tech Angular Developer - Powered by iFood da DIO(Digital Innovation One) com o Framework Angular. Consiste na criação de um Quizz com utilização dos conceitos aprendidos durante o bootcamp. A temática que escolhi é: Qual a sua casa de Hogwarts?",
       "tech": ["HTML", "CSS","JavaScript", "Angular", "Manipulação de DOM"],
@@ -17,7 +17,7 @@
       "online": "https://brenda-a-s.github.io/Patinhas-Jogo-da-Memoria-JavaScript-CSS-HTML/"
     },
     {
-      "imagem": "https://user-images.githubusercontent.com/69852246/318619774-77ab43f4-0f57-4f1a-afea-fae3f1368a1f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0NDQ5MDcsIm5iZiI6MTc0ODQ0NDYwNywicGF0aCI6Ii82OTg1MjI0Ni8zMTg2MTk3NzQtNzdhYjQzZjQtMGY1Ny00ZjFhLWFmZWEtZmFlM2YxMzY4YTFmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI4VDE1MDMyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxM2MzZmU1OTZkOTJlNDgwNGJmNzM5ZjBhODE4M2NhMjk5YWIyNTk5YTRlOWM1MzVhNDJhN2RkZWEzOTA1YTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.69dNBrDje3Q15qv5QivoYJ_PdjOyrt9YQVWY0a9PdXo",
+      "imagem": "https://raw.githubusercontent.com/Brenda-A-S/Calculadora-De-Medias-HTML-CSS-JQuery/refs/heads/main/calculadora-de-media.png",
       "nome": "Calculadora de médias",
       "descricao": "Uma aplicação simples e intuitiva desenvolvida com HTML, CSS e jQuery, que permite ao usuário calcular a média de notas de forma prática e rápida. Ideal para estudantes, professores ou qualquer pessoa que precise fazer cálculos escolares com facilidade.",
       "tech": ["HTML", "CSS","JQuery", "Manipulação de DOM"],
