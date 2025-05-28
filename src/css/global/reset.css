@@ -1,0 +1,40 @@
+:root {
+    --cor-destaque: #FF405E;
+    --cor-fundo: #040404;
+    --cor-texto: #E0E0E0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    transition: .2s;
+    border: none;
+}
+
+body {
+    font-family: "Abel", sans-serif;
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    line-height: 1.6;
+}
+
+a,
+button {
+    display: inline-block;
+    color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Aldrich", sans-serif;
+    font-weight: 400;
+    color: #FFF;
+}

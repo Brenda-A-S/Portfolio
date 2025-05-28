@@ -1,0 +1,12 @@
+.btn {
+    font-family: "Aldrich", sans-serif;
+    background: var(--cor-destaque);
+    padding: 12px 24px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.btn:hover {
+    opacity: .8;
+    transform: scale(.9);
+}

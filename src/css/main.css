@@ -1,0 +1,19 @@
+@import url(./global/reset.css);
+@import url(./global/container.css);
+@import url(./global/titulo.css);
+@import url(./global/btn.css);
+
+@import url(./header/header.css);
+@import url(./header/nav.css);
+@import url(./header/profile.css);
+
+@import url(./sobre/sobre.css);
+@import url(./sobre/tecnologias.css);
+
+@import url(./projetos/projetos.css);
+@import url(./projetos/galeria.css);
+
+@import url(./contato/contato.css);
+@import url(./contato/formulario.css);
+
+@import url(./global/footer.css);

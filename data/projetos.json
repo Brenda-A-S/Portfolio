@@ -1,0 +1,36 @@
+{
+  "projetos": [
+    {
+      "imagem": "https://private-user-images.githubusercontent.com/69852246/448463474-9748a89a-4f07-46c7-bea2-de6a62fb6aea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0NDczNjMsIm5iZiI6MTc0ODQ0NzA2MywicGF0aCI6Ii82OTg1MjI0Ni80NDg0NjM0NzQtOTc0OGE4OWEtNGYwNy00NmM3LWJlYTItZGU2YTYyZmI2YWVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI4VDE1NDQyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk5MTU4NmIwNmI1ZjhiOGY3ZDRlYWUyNDc3YmNkMjQ2ZWE2YWQ5NDIxMjQ1MWVmNTc5OGQ2MjM0MTNiNjhhMjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7n0T0kjh7enxhNhWeOa_SEThZXS-DXBNW7xdgQKu308",
+      "nome": "Projeto BuzzFeed Clone",
+      "descricao": "Esse projeto foi desenvolvido durante o bootcamp Potência Tech Angular Developer - Powered by iFood da DIO(Digital Innovation One) com o Framework Angular. Consiste na criação de um Quizz com utilização dos conceitos aprendidos durante o bootcamp. A temática que escolhi é: Qual a sua casa de Hogwarts?",
+      "tech": ["HTML", "CSS","JavaScript", "Angular", "Manipulação de DOM"],
+      "repo": "https://github.com/Brenda-A-S/BuzzfeedClone-sorting-hat-quizz-Angular",
+      "online": "https://buzzfeed-clone-sorting-hat-quizz-an.vercel.app/"
+    },
+    {
+      "imagem": "https://user-images.githubusercontent.com/69852246/280165316-d119111c-9245-4054-a669-45f3184f7bc9.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0NDM2MzIsIm5iZiI6MTc0ODQ0MzMzMiwicGF0aCI6Ii82OTg1MjI0Ni8yODAxNjUzMTYtZDExOTExMWMtOTI0NS00MDU0LWE2NjktNDVmMzE4NGY3YmM5LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI4VDE0NDIxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg5MmNiMTVmNWVlZWY1MGMxZjA1ZTFlZTUxNTRjYTM1Yzc0ZmY1OTk1OTA3YmM2M2JlNzFiNmM1MjAzOTBlMmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.lhbZPdTZMSMOY4uBtmf69FeuELy-c8pSTkBya2FzJeI",
+      "nome": "Patinhas | Jogo da memória 🐾🐱",
+      "descricao": "Esse é um projetinho que desenvolvi para praticar JavaScript junto com HTML e CSS. Comecei ele durante um bootcamp, com um código mais simples e depois evoluí a lógica para algo mais estruturado, transformando em uma classe reutilizável.",
+      "tech": ["HTML", "CSS","JavaScript", "POO", "Manipulação de DOM"],
+      "repo": "https://github.com/Brenda-A-S/Patinhas-Jogo-da-Memoria-JavaScript-CSS-HTML",
+      "online": "https://brenda-a-s.github.io/Patinhas-Jogo-da-Memoria-JavaScript-CSS-HTML/"
+    },
+    {
+      "imagem": "https://private-user-images.githubusercontent.com/69852246/318619774-77ab43f4-0f57-4f1a-afea-fae3f1368a1f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0NDQ5MDcsIm5iZiI6MTc0ODQ0NDYwNywicGF0aCI6Ii82OTg1MjI0Ni8zMTg2MTk3NzQtNzdhYjQzZjQtMGY1Ny00ZjFhLWFmZWEtZmFlM2YxMzY4YTFmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI4VDE1MDMyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxM2MzZmU1OTZkOTJlNDgwNGJmNzM5ZjBhODE4M2NhMjk5YWIyNTk5YTRlOWM1MzVhNDJhN2RkZWEzOTA1YTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.69dNBrDje3Q15qv5QivoYJ_PdjOyrt9YQVWY0a9PdXo",
+      "nome": "Calculadora de médias",
+      "descricao": "Uma aplicação simples e intuitiva desenvolvida com HTML, CSS e jQuery, que permite ao usuário calcular a média de notas de forma prática e rápida. Ideal para estudantes, professores ou qualquer pessoa que precise fazer cálculos escolares com facilidade.",
+      "tech": ["HTML", "CSS","JQuery", "Manipulação de DOM"],
+      "repo": "https://github.com/Brenda-A-S/Calculadora-De-Medias-HTML-CSS-JQuery",
+      "online": "https://calculadora-de-medias-umber.vercel.app"
+    },
+    {
+      "imagem": "https://user-images.githubusercontent.com/69852246/263121558-c435c1f4-f27c-4e60-ae8a-a95c8fac443e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg0NDA1MzAsIm5iZiI6MTc0ODQ0MDIzMCwicGF0aCI6Ii82OTg1MjI0Ni8yNjMxMjE1NTgtYzQzNWMxZjQtZjI3Yy00ZTYwLWFlOGEtYTk1YzhmYWM0NDNlLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI4VDEzNTAzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNkZjMzMzNhYTE0MTYxYzZhMjZmZWIzZTk1NTkwYWQ5N2Y4YWNlYmI0NGE5OTlmNTRkNzRjYzNkYWY5NDA3YTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.28imL1Fq0oBwRmDo5eXPKO5EZ-dzFiNrO0BgYytgx1s",
+      "nome": "Pokédex",
+      "descricao": "Esse foi um projeto que desenvolvi para praticar consumo de APIs, junto com HTML, CSS e JavaScript puro. A ideia era criar uma Pokédex interativa, que puxasse informações dos Pokémons direto da PokéAPI, exibindo nome, número, tipo, imagem e outros dados.",
+      "tech": ["HTML", "CSS","JavaScript", "Consumo de API", "Manipulação de DOM"],
+      "repo": "https://github.com/Brenda-A-S/Pokedex-HTML-CSS-JS",
+      "online": "https://brenda-a-s.github.io/Pokedex-HTML-CSS-JS/"
+    }
+  ]
+}

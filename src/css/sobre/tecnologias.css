@@ -1,0 +1,50 @@
+.tecnologias {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.tecnologias article {
+  display: flex;
+  flex-direction: column;
+  background-color: #1E1E1E;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.tecnologias h4 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+  color: #fff;
+}
+
+.tecnologias ul {
+  padding-left: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .8rem;
+  align-items: center;
+}
+
+.tecnologias li {
+  margin-bottom: 0.3rem;
+  white-space: nowrap;
+  background: #141414;
+  padding: .6rem;
+  border-radius: 2px;
+  color: var(--cor-destaque);
+}
+
+@media (max-width: 1024px) {
+  .tecnologias {
+    grid-template-columns: repeat(2, 1fr); /* 2 colunas em tablets */
+  }
+}
+
+@media (max-width: 600px) {
+  .tecnologias {
+    grid-template-columns: 1fr; /* 1 coluna em celulares */
+    gap: 1rem;
+  }
+}

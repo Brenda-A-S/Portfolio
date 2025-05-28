@@ -1,0 +1,36 @@
+#sobre .container {
+  background: #141414;
+  border-radius: 5px;
+}
+
+#sobre p {
+  margin-bottom: 1rem;
+}
+
+#sobre li {
+  margin-bottom: 1rem;
+  max-width: 40ch;
+}
+
+address ul {
+  margin-top: 2rem;
+  font-style: normal;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+address ul li a {
+  color: var(--cor-destaque);
+}
+
+@media (max-width: 555px) {
+  address ul {
+    flex-direction: column;
+  }
+
+  span {
+    display: none;
+  }
+
+}
