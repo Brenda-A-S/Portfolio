@@ -1,0 +1,32 @@
+{
+  "Tecnologias": {
+    "Linguagens": [
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES6+)"
+    ],
+    "Bibliotecas": [
+      "jQuery",
+      "React"
+    ],
+    "PreProcessadores": [
+      "SASS",
+      "LESS"
+    ],
+    "Frameworks": [
+      "Angular",
+      "Bootstrap",
+      "Vue.js"
+    ],
+    "AutomacaoEBuild": [
+      "Grunt",
+      "Gulp",
+      "Webpack"
+    ],
+    "OutrasFerramentas": [
+      "Figma",
+      "Git & GitHub",
+      "NPM"
+    ]
+  }
+}
